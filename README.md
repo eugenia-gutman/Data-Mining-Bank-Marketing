@@ -63,7 +63,7 @@ Logistic Regression model was enhanced through feature scaling, removal of redun
 **Python Code**
 
 
-[CRISP_DM_bank_marketing.ipynb](https://)
+[CRISP_DM_bank_marketing.ipynb](CRISP_DM_bank_marketing.ipynb)
 
 
 
