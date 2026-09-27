@@ -20,7 +20,7 @@ The best machine learning model for improving telemarketing campaings efficiency
 Apply Logistic Regression model with a threshold of 75% to improve campaign conversion from 11% to 14%. This approach will result in obtaining 90% of Advanced Deposit sales by contacting targeted 75% of customers that would have had to be contacted without the targeting.
 
 \
-![lift_curve.png]([https://drive.google.com/uc?export=view&id=1StgJ1guYQEQ9kAfQo-EBKw1Sqs-K_vps](https://github.com/eugenia-gutman/Data-Mining-Bank-Marketing/blob/main/images/lift_curve.png))
+![lift_curve.png]((https://github.com/eugenia-gutman/Data-Mining-Bank-Marketing/blob/main/images/lift_curve.png))
 
 \
 Most powerful predictors of the sales phone call outcome are:
